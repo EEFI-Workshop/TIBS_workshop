@@ -1,6 +1,6 @@
 # Forecasting vegetation dynamics in Doñana National Park
 
-**Workshop designers**: Billur Bektaş, Patrícia Singh, Mary E Lofton, Freya Olsson, Maria Paniw
+**Workshop designers**: Billur Bektaş, Patrícia Singh, Mary E Lofton, Freya Olsson, Cara Gallagher, Maria Paniw
 
 **Contributors**: María Teresa Mejia Sánchez, Matthew Clements, Francisco Lloret
 
