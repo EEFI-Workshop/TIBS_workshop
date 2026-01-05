@@ -21,7 +21,7 @@ In order to assess community composition before, during, and after the severe dr
 
 More recently (since 2023), another project, led by Matthew Celments, started shrub vegetation surveys at the landscape level in the Reserve. Mattew has conducted structured density surveys of the dominant shrub species (_Halimium halimifolium_, _Lavandula stoechas_) in 10x10m grids every 100 meters over 5km along five transects, yielding 250 estimates of density status.
 
-![Monitoring](vegetation_donana/Figures/shrub_monitoring_plots.png)
+![Monitoring](Figures/shrub_monitoring_plots.png)
 
 **Figure 2**. Distribution of shrub monitoring plots in the Biological Reserved in Doñana National Park.
 
